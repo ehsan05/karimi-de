@@ -1,0 +1,55 @@
+{
+  "header": {
+    "home": "Home",
+    "about": "About",
+    "projects": "Projects",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Full-Stack Developer",
+    "subtitle": "I build modern web experiences",
+    "description": "I'm Ehsan Karimi, a developer specializing in end-to-end web solutions. I architect and build responsive applications using modern JavaScript frameworks, with expertise spanning both frontend interfaces and backend systems.",
+    "cta_contact": "Contact Me",
+    "cta_cv": "Download CV"
+  },
+  "skills": {
+    "title": "Technical Toolkit",
+    "description": "Proven expertise across modern development stacks"
+  },
+  "projects": {
+    "title": "Development Portfolio",
+    "subtitle": "From learning exercises to deployed applications",
+    "description": "This collection showcases my progression as a developer. While currently expanding my backend expertise, these projects demonstrate my problem-solving approach and technical capabilities.",
+    "filter_all": "All",
+    "filter_basic": "Foundational Work",
+    "filter_intermediate": "Intermediate Solutions",
+    "filter_advanced": "Advanced Applications"
+  },
+  "about": {
+    "intro": "About me",
+    "title": "My Developer Journey",
+    "description": "As a self-taught developer transitioning into full-stack roles, I combine technical skills with a passion for continuous learning. My journey began with frontend development and has evolved to include backend technologies through dedicated practice and project implementation.",
+    "stats_projects": "Projects Deployed",
+    "stats_tech": "Technologies learned",
+    "stats_learning": "Learning Hours"
+  },
+  "contact": {
+    "intro": "Contact Me",
+    "title": "Let's Connect",
+    "description": "I'm actively exploring junior full-stack developer roles and freelance opportunities. Whether you have a project idea, career opportunity, or technical discussion, I'd welcome the conversation.",
+    "email": "Email",
+    "phone": "Phone",
+    "location": "Location",
+    "location-value": "Germany",
+    "focus": "Focus",
+    "focus-value": "Web Development",
+    "form_name": "Full Name",
+    "form_email": "Email Address",
+    "form_subject": "Subject",
+    "form_message": "Your Message",
+    "form_button": "Send Message"
+  },
+  "footer": {
+    "tagline": "Ehsan Karimi. All rights reserved."
+  }
+}
