@@ -9,7 +9,7 @@ const i18n = createInstance({
     en: { translation: enTranslations },
     de: { translation: deTranslations }
   },
-  lng: 'de',
+  lng: 'en',
   fallbackLng: 'en',
   interpolation: {
     escapeValue: false
