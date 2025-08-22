@@ -6,37 +6,37 @@
     "contact": "Contact"
   },
   "hero": {
-    "title": "Full-Stack Developer",
-    "subtitle": "I build modern web experiences",
-    "description": "I'm Ehsan Karimi, a developer specializing in end-to-end web solutions. I architect and build responsive applications using modern JavaScript frameworks, with expertise spanning both frontend interfaces and backend systems.",
+    "title": "Ehsan Karimi",
+    "subtitle": "I like building things on the web",
+    "description": "Hey, I’m Ehsan. I enjoy coding and creating websites and small applications. Over time I’ve been learning different tools and frameworks, and this site is a place to share what I’ve worked on so far.",
     "cta_contact": "Contact Me",
     "cta_cv": "Download CV"
   },
   "skills": {
-    "title": "Technical Toolkit",
-    "description": "Proven expertise across modern development stacks"
+    "title": "Skills",
+    "description": "Some of the technologies and tools I’ve been working with recently"
   },
   "projects": {
-    "title": "Development Portfolio",
-    "subtitle": "From learning exercises to deployed applications",
-    "description": "This collection showcases my progression as a developer. While currently expanding my backend expertise, these projects demonstrate my problem-solving approach and technical capabilities.",
+    "title": "Projects",
+    "subtitle": "A few things I’ve built",
+    "description": "Here are some projects I’ve done while learning and experimenting. They range from simple practice exercises to more complete applications.",
     "filter_all": "All",
-    "filter_basic": "Foundational Work",
-    "filter_intermediate": "Intermediate Solutions",
-    "filter_advanced": "Advanced Applications"
+    "filter_basic": "Beginner Projects",
+    "filter_intermediate": "Intermediate Projects",
+    "filter_advanced": "Advanced Projects"
   },
   "about": {
-    "intro": "About me",
-    "title": "My Developer Journey",
-    "description": "As a self-taught developer transitioning into full-stack roles, I combine technical skills with a passion for continuous learning. My journey began with frontend development and has evolved to include backend technologies through dedicated practice and project implementation.",
-    "stats_projects": "Projects Deployed",
-    "stats_tech": "Technologies learned",
-    "stats_learning": "Learning Hours"
+    "intro": "About Me",
+    "title": "Who I Am",
+    "description": "I started programming because I was curious about how websites and apps are made. Since then, I’ve been learning step by step — mostly by building things, making mistakes, and figuring out how to fix them. Coding is something I enjoy, and I’m always looking to get better at it.",
+    "stats_projects": "Projects",
+    "stats_tech": "Technologies",
+    "stats_learning": "Hours Learning"
   },
   "contact": {
-    "intro": "Contact Me",
-    "title": "Let's Connect",
-    "description": "I'm actively exploring junior full-stack developer roles and freelance opportunities. Whether you have a project idea, career opportunity, or technical discussion, I'd welcome the conversation.",
+    "intro": "Contact",
+    "title": "Get in Touch",
+    "description": "If you’d like to talk about tech, projects, or anything related, feel free to reach out. I’m always open to a good conversation.",
     "email": "Email",
     "phone": "Phone",
     "location": "Location",
@@ -47,9 +47,10 @@
     "form_email": "Email Address",
     "form_subject": "Subject",
     "form_message": "Your Message",
-    "form_button": "Send Message"
+    "form_button": "Send"
   },
   "footer": {
-    "tagline": "Ehsan Karimi. All rights reserved."
+    "tagline": "© 2025 Ehsan Karimi. All rights reserved."
   }
 }
+

@@ -6,50 +6,50 @@
     "contact": "Kontakt"
   },
   "hero": {
-    "title": "Full-Stack Entwickler",
-    "subtitle": "Ich baue moderne Webanwendungen",
-    "description": "Ich bin Ehsan Karimi, ein Entwickler mit Spezialisierung auf komplette Web-Lösungen. Ich entwerfe und baue responsive Anwendungen mit modernen JavaScript-Frameworks, mit Expertise in Frontend und Backend.",
+    "title": "Ehsan Karimi",
+    "subtitle": "Ich baue gerne Dinge fürs Web",
+    "description": "Hallo, ich bin Ehsan. Ich habe Freude am Programmieren und daran, Webseiten und kleine Anwendungen zu entwickeln. Mit der Zeit habe ich verschiedene Werkzeuge und Frameworks ausprobiert, und hier zeige ich einige meiner bisherigen Arbeiten.",
     "cta_contact": "Kontakt",
     "cta_cv": "Lebenslauf"
   },
   "skills": {
-    "title": "Technische Fähigkeiten",
-    "description": "Bewiesene Expertise in modernen Entwicklungstechnologien"
+    "title": "Fähigkeiten",
+    "description": "Technologien und Werkzeuge, mit denen ich bisher gearbeitet habe"
   },
   "projects": {
-    "title": "Projektportfolio",
-    "subtitle": "Von Lernübungen bis zu echten Anwendungen",
-    "description": "Diese Sammlung zeigt meine Entwicklung als Programmierer. Während ich aktuell mein Backend-Wissen erweitere, demonstrieren diese Projekte meinen Lösungsansatz und technische Fähigkeiten.",
+    "title": "Projekte",
+    "subtitle": "Einige Dinge, die ich gebaut habe",
+    "description": "Hier sind Projekte, die ich während des Lernens umgesetzt habe. Manche sind einfache Übungen, andere schon etwas umfangreicher – alle haben mir geholfen, Programmieren besser zu verstehen.",
     "filter_all": "Alle",
-    "filter_basic": "Grundlagen",
+    "filter_basic": "Einsteigerprojekte",
     "filter_intermediate": "Mittlere Projekte",
-    "filter_advanced": "Fortgeschritten"
+    "filter_advanced": "Fortgeschrittene Projekte"
   },
   "about": {
     "intro": "Über mich",
-    "title": "Meine Entwicklerreise",
-    "description": "Als autodidaktischer Entwickler im Übergang zu Full-Stacks-Rollen kombiniere ich technische Fähigkeiten mit einer Leidenschaft für kontinuierliches Lernen. Meine Reise begann mit Frontend-Entwicklung und umfasst nun Backend-Technologien durch gezielte Praxis und Projekte.",
-    "stats_projects": "Projekte umgesetzt",
-    "stats_tech": "gelernte Technologien",
+    "title": "Wer ich bin",
+    "description": "Ich habe mit Programmieren angefangen, weil ich neugierig war, wie Webseiten und Apps entstehen. Seitdem lerne ich Schritt für Schritt – vor allem, indem ich Dinge baue, Fehler mache und Lösungen finde. Programmieren macht mir Spaß, und ich möchte mich darin ständig verbessern.",
+    "stats_projects": "Projekte",
+    "stats_tech": "Technologien",
     "stats_learning": "Lernstunden"
   },
   "contact": {
-    "intro": "Kontaktiere mich",
-    "title": "Lass uns verbinden",
-    "description": "Ich suche aktiv nach Junior Full-Stack Entwickler Positionen und freiberuflichen Möglichkeiten. Bei Projektideen, Karrierechancen oder technischen Diskussionen freue ich mich über Ihre Nachricht.",
+    "intro": "Kontakt",
+    "title": "Schreib mir",
+    "description": "Wenn du über Projekte, Ideen oder Technik sprechen möchtest, melde dich gerne bei mir. Ich freue mich immer über einen Austausch.",
     "email": "E-Mail",
     "phone": "Telefon",
     "location": "Standort",
     "location-value": "Deutschland",
     "focus": "Schwerpunkt",
-     "focus-value": "Web Entwicklung",
+    "focus-value": "Webentwicklung",
     "form_name": "Name",
-    "form_email": "E-Mail Adresse",
+    "form_email": "E-Mail-Adresse",
     "form_subject": "Betreff",
-    "form_message": "Ihre Nachricht",
-    "form_button": "Nachricht senden"
+    "form_message": "Nachricht",
+    "form_button": "Senden"
   },
   "footer": {
-    "tagline": "Ehsan Karimi. Alle Rechte vorbehalten."
+    "tagline": "© 2025 Ehsan Karimi. Alle Rechte vorbehalten."
   }
 }
